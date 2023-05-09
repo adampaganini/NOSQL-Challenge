@@ -1,8 +1,8 @@
 # NoSQL UK Food Hygiene Rating Analysis
 
-The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. Food magazine, Eat Safe, Love, hired out to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles. The Jupyter notebook called [NoSQL_setup_starter.ipynb ](https://github.com/adampaganini/NOSQL-Challenge/blob/main/NoSQL_setup_starter.ipynb) containing code that imports the data and sets up and updates the uk_food database. The Jupyter notebook called [NoSQL_analysis_starter.ipynb](https://github.com/adampaganini/NOSQL-Challenge/blob/main/NoSQL_analysis_starter.ipynb) contains code that performs the exploratory analysis queries in the database.
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. Food magazine, Eat Safe, Love, hired out to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles. The Jupyter notebook called [NoSQL_setup_starter.ipynb ](https://github.com/adampaganini/NOSQL-Challenge/blob/main/NoSQL_setup_starter.ipynb) contains the code that imports the data, sets up, and updates the uk_food database. The Jupyter notebook called [NoSQL_analysis_starter.ipynb](https://github.com/adampaganini/NOSQL-Challenge/blob/main/NoSQL_analysis_starter.ipynb) contains code that performs the exploratory analysis queries in the database.
 
-The analysis answers and prints out the following questions about the data:
+The exploratory analysis answers and prints out the following questions about the data:
 
 - Which establishments have a hygiene score equal to 20?
 - Which establishments in London have a RatingValue greater than or equal to 4?
